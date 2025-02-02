@@ -1,2 +1,2 @@
 # SmartElbowExo
-Code for the Degree Project Smart Elbox Exo at Chalmers Technichal University.
+Code for the Degree Project Smart Elbow Exo at Chalmers Technichal University.
