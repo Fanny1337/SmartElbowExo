@@ -1,2 +1,5 @@
 /src/serial_comm
 /src/test_package
+/src/serial_communication_package/launch
+/src/serial_communication_package/scripts
+/src/control_vr_package/src
